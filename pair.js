@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by ZENITSU*
-*_Made With 🚬🗿_*
+*_Pair Code Connected by nima v4*
+*_Made With nima*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING BOT IS NIMA V4 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║
+║❒ *Owner:* https://wa.me/94726800969
+║❒ *Repo:* https://github.com/nimawpbot/nima-md.git
+║❒ *WaGroup:* _https://chat.whatsapp.com/HLBP338VvUC0ms5NqCkSSO?mode=ac_t
+║❒ *WaChannel:* https://whatsapp.com/channel/0029Vb68g1c3LdQLQDkbAQ3M
+║❒ *Plugins:* https://github.com/nimawpbot/nima-md
 ╚════════════════════════╝
 _____________________________________
 
